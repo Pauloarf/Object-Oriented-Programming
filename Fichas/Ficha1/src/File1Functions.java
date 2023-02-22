@@ -32,4 +32,10 @@ public class File1Functions {
         Instant end = Instant.now();
         return Duration.between(start, end).toMillis();
     }
+    public String printsAccountDescription(String name, double balance){
+        return "This account belongs to " + name + ", and you have a balance of " + balance;
+    }
+    public double eurosToPounds(double value, double conversionRate){
+        return (value * conversionRate);
+    }
 }
