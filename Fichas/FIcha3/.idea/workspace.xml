@@ -20,7 +20,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/paulo/Desktop/Mygits/Object-Oriented-Programming/Fichas/Ficha3",
+    "last_opened_file_path": "C:/Users/paulo/Desktop/Mygits/Object-Oriented-Programming/Fichas/Ficha0",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -33,7 +34,12 @@
       <option name="presentableId" value="Default" />
       <updated>1678183055298</updated>
       <workItem from="1678183056894" duration="96000" />
+      <workItem from="1678272352105" duration="194000" />
+      <workItem from="1678390735807" duration="50000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
